@@ -1,0 +1,9 @@
+.hidden{
+    display: none;
+}
+
+#profilePic{
+    width: 20vw;
+    height: 20vh;
+    border-radius: 50%;
+}
